@@ -1,13 +1,4 @@
 
-None selected 
-
-Skip to content
-Using Gmail with screen readers
-Conversations
-3.17 GB of 15 GB used
-Terms · Privacy · Programme Policies
-Last account activity: 17 minutes ago
-Details
 #include <LiquidCrystal_I2C.h>
 #include <SoftwareSerial.h>
 
